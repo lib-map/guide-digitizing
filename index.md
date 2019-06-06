@@ -119,6 +119,19 @@ Why do we create feature classes?
 ![Line](images/CompletedLines.PNG)
 
 ##### Polygon Features
+1. To add polygon features, be sure to select *Polygon** as the desired feature class when creating a feature class.
+2. Go to the *Edit* tab of the toolbar and select **Create**. A *Create Features* pane should appear.
+3. In the *Create Features* pane, select the layer you want to digitize (wording). A few tools will appear under the layer. Select **Polygon**. Polygons can now be added as desired.
+
+![Poly](images/Poly.PNG)
+
+4. To create a polygon, decide where the polygon should start and click. A vertext should appear. Add another vertex to create a line and continue this process until the shape is closed.
+
+![Poly2](images/Poly2.PNG)
+
+5. To finish a polygon, double click on the last vertex that was placed. The polygon outline should appear highlighted. 
+
+![Poly3](images/Poly3.PNG)
 
 #### Editing
 
