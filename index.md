@@ -101,7 +101,7 @@ Why do we create feature classes?
 
 5. Continue adding points as desired. 
 
-![Points added](images/PointsAdded.PNG)
+![Points added](images/PointsAdded.PNG) !!!!!!!!!!!!!!!!!!!
 
 ##### Line Features
 1. To add line features, be sure to select **Line** as the desired feature class when creating a feature class.
