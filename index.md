@@ -116,7 +116,7 @@ Why do we create feature classes?
 
 5. More vertexes can be added to create a longer line or to manipulate the shape of the line.
 
-![Line](images/Line.PNG)
+![Line](images/CompletedLines.PNG)
 
 ##### Polygon Features
 
