@@ -79,7 +79,9 @@ Why do we create feature classes?
 
 ![Feature class 2](images/FeatureClass2.PNG)
 
-4. The new feature class will appear in the *catalog* pane under the feature database that was previously created.
+4. The new feature class will appear in the *catalog* pane under the feature database that was previously created. To add the layer to the project, right click and select **Add to Current Map**. A new layer should appear in the *Contents* pane. 
+
+![Add](images/Add.PNG)
 
 ##### Snapping?
 
