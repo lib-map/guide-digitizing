@@ -95,15 +95,28 @@ Why do we create feature classes?
 
 3. In the *Create Features* pane, select the layer you want to digitize (wording). A few tools will appear under the layer. Select **Point**. Points can now be added as desired.
 
-4. To add a point, simply locate an object you would like to mark and click in the center 
-
 ![CF2](images/CF2.PNG)
+
+4. To add a point, simply locate an object you would like to mark and click in the center 
 
 5. Continue adding points as desired. 
 
 ![Points added](images/PointsAdded.PNG)
 
 ##### Line Features
+1. To add line features, be sure to select **Line** as the desired feature class when creating a feature class.
+2. Go to the *Edit* tab of the toolbar and select **Create**. A *Create Features* pane should appear.
+3. In the *Create Features* pane, select the layer you want to digitize (wording). A few tools will appear under the layer. Select **Line**. Lines can now be added as desired.
+
+![CF3](images/CF3.PNG)
+
+4. To create a line, decide where the line should start and click. A vertext should appear. Add another vertex to create a line.
+
+![vertex](images./Vertex.PNG)
+
+5. More vertexes can be added to create a longer line or to manipulate the shape of the line.
+
+![Line](images/Line.PNG)
 
 ##### Polygon Features
 
