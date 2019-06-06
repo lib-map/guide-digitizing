@@ -2,6 +2,7 @@
 Last Updated *[06/06/2019]*   
 Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room)
 
+![img example](images/OSULogo.png)
 
 ## Table of Contents
 - Introduction 
