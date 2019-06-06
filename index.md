@@ -73,11 +73,20 @@ Why do we create feature classes?
 1.To create a feature class, right click the desired GDB file in the *Databases* folder of the *Catalog* pane. 
 2. Select **NEW** and **Feature Class**.
 
+![Feature class](images/FeatureClass.PNG)
+
+3. A *Create Feature Class* pane should appear. Give the class a name, select the desired feature class type and continue through the next few pages. These pages allow you to import fields, select the desired coordinate system, set tolerance, alter resolution and specify storage configuration. 
+
+![Feature class 2](images/FeatureClass2.PNG)
+
+4. The new feature class will appear in the *catalog* pane under the feature database that was previously created.
+
 ##### Snapping?
 
 ##### Saving?
 
 ##### Point Features
+1. To add point features, be sure to select **Point** as the desired feature class when creating a feature class.
 
 ##### Line Features
 
