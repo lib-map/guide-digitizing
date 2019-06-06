@@ -27,8 +27,6 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 ## Introduction
 Digitizing allows image data to be converted to vector digital data. This is accomplished by manually digitizing objects by tracing lines or adding points based on the source media. 
 
-## *[Digitizing in ArcGIS Pro]*
-
 #### Starting a New Project
 
 1. To begin a new project, open ArcGIS on your desktop.
@@ -54,13 +52,26 @@ Now that a new project has been created, a folder connection must be added to im
 ![Added File](images/AddedFile.PNG)
 
 *Note: For georeferencing in ArcGIS Pro, JPGs are the preferred file type.*
-## *[delicious content]*
 
 #### Digitizing
+Images are turned into vector digital data through the proccess of manually digitizing the images. 
 
 ##### Feature Dataset
+Why do we create feature data sets?
+1. To create a feature dataset, right click the desired GDB file in the *Databases* folder of the *Catalog* pane. 
+2. Select **NEW** and **Feature Dataset**.
+
+![Feature dataset](images/FeatureDataset.PNG)
+
+3. A *geoprocessing* pane should appear. Give the dataset a title and select the desired coordinate system. Then click **Run** at the bottom of the pane. Once this process is complete, a green box should appear at the bottom of the *geoprocessing* pane declaring success. 
+
+![Feature dataset 2](images/FeatureDataset2.PNG)
 
 ##### Feature Class
+Why do we create feature classes? 
+
+1.To create a feature class, right click the desired GDB file in the *Databases* folder of the *Catalog* pane. 
+2. Select **NEW** and **Feature Class**.
 
 ##### Snapping?
 
