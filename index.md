@@ -89,6 +89,19 @@ Why do we create feature classes?
 
 ##### Point Features
 1. To add point features, be sure to select **Point** as the desired feature class when creating a feature class.
+2. Go to the *Edit* tab of the toolbar and select **Create**. A *Create Features* pane should appear.
+
+![CF](images/CF.PNG)
+
+3. In the *Create Features* pane, select the layer you want to digitize (wording). A few tools will appear under the layer. Select **Point**. Points can now be added as desired.
+
+4. To add a point, simply locate an object you would like to mark and click in the center 
+
+![CF2](images/CF2.PNG)
+
+5. Continue adding points as desired. 
+
+![Points added](images/PointsAdded.PNG)
 
 ##### Line Features
 
@@ -101,6 +114,15 @@ Why do we create feature classes?
 ##### Merging
 
 ##### Splitting
+
+##### Delete
+1. To delete a misplaced point, click **Select** in the *Edit* tab of the toolbar.
+
+![Select](images/Select.PNG)
+
+2. Right click the point and choose **Delete**. The point should disappear. 
+
+![Delete](images/Delete.PNG)
 
 ## Conclusion
 
