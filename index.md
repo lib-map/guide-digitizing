@@ -56,7 +56,7 @@ Now that a new project has been created, a folder connection must be added to im
 Images are turned into vector digital data through the proccess of manually digitizing the images. 
 
 ##### Feature Dataset
-Why do we create feature data sets?
+Feature datasets are collections of related feature classes that share a common coordinate system. They are used to integrate related feature classes and organize them into a common dataset. 
 1. To create a feature dataset, right click the desired GDB file in the *Databases* folder of the *Catalog* pane. 
 2. Select **NEW** and **Feature Dataset**.
 
@@ -67,7 +67,7 @@ Why do we create feature data sets?
 ![Feature dataset 2](images/FeatureDataset2.PNG)
 
 ##### Feature Class
-Why do we create feature classes? 
+Feature classes are collections of common features, such as points, lines or polygons, that have a common set of attribute columns.
 
 1.To create a feature class, right click the desired GDB file in the *Databases* folder of the *Catalog* pane. 
 2. Select **NEW** and **Feature Class**.
@@ -88,11 +88,11 @@ Why do we create feature classes?
 
 ![CF](images/CF.PNG)
 
-3. In the *Create Features* pane, select the layer you want to digitize (wording). A few tools will appear under the layer. Select **Point**. Points can now be added as desired.
+3. In the *Create Features* pane, select the layer you want to digitize. A few tools will appear under the layer. Select **Point**. Points can now be added as desired.
 
 ![CF2](images/CF2.PNG)
 
-4. To add a point, simply locate an object you would like to mark and click in the center 
+4. To add a point, simply locate an object you would like to mark and click in the center of the object. 
 
 5. Continue adding points as desired. 
 
@@ -101,7 +101,7 @@ Why do we create feature classes?
 ##### Line Features
 1. To add line features, be sure to select **Line** as the desired feature class when creating a feature class.
 2. Go to the *Edit* tab of the toolbar and select **Create**. A *Create Features* pane should appear.
-3. In the *Create Features* pane, select the layer you want to digitize (wording). A few tools will appear under the layer. Select **Line**. Lines can now be added as desired.
+3. In the *Create Features* pane, select the layer you want to digitize. A few tools will appear under the layer. Select **Line**. Lines can now be added as desired.
 
 ![CF3](images/CF3.PNG)
 
@@ -116,7 +116,7 @@ Why do we create feature classes?
 ##### Polygon Features
 1. To add polygon features, be sure to select *Polygon** as the desired feature class when creating a feature class.
 2. Go to the *Edit* tab of the toolbar and select **Create**. A *Create Features* pane should appear.
-3. In the *Create Features* pane, select the layer you want to digitize (wording). A few tools will appear under the layer. Select **Polygon**. Polygons can now be added as desired.
+3. In the *Create Features* pane, select the layer you want to digitize. A few tools will appear under the layer. Select **Polygon**. Polygons can now be added as desired.
 
 ![Poly](images/Poly.PNG)
 
@@ -133,12 +133,12 @@ Why do we create feature classes?
 
 ![Select2](images/Select2.PNG)
 
-2. Right click the feature and choose **Delete**. It should disappear. 
+2. Right click the feature you wish to remove and click **Delete**. The feature should disappear. 
 
 ![Delete](images/Delete.PNG)
 
 ##### Saving
-Be sure to save your work periodically. The save icon in the top left corner of the screen does not save digitized objects.
+Be sure to save your work periodically. The save icon in the top left corner of the screen does not save digitization edits.
 
 1. To ensure digitizing is saved, click **Save** in the *Edit* tab of the toolbar. 
 
