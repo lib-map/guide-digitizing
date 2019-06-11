@@ -149,10 +149,10 @@ Be sure to save your work periodically. The save icon in the top left corner of 
 ![SaveEdits](images/SaveEdits.PNG)
 
 #### Editing
-Digitized features may be edited after they are created. The three most common editing tools involve auto-complete digizing, merging and splitting. 
+Digitized features may be edited after they are created. The three most common editing tools include auto-complete digizing, merging and splitting. 
 
 ##### Auto-Complete Digitizing
-Auto-complete digitizing allows a polygon to be created that abudts another existing polygon. This means the same line does not have to be digitized more than once, which can lead to complications such a slivers. 
+Auto-complete digitizing allows a polygon to be created that abudts another existing polygon. This means the shared line does not have to be digitized more than once, which can lead to complications such a slivers. 
 
 1. To autocomplete a polygon, open the *Create Features* pane and select **Autocomplete Polygon**.
 
@@ -167,7 +167,7 @@ Auto-complete digitizing allows a polygon to be created that abudts another exis
 ![AutoC2](images/AutoC2.PNG)
 
 ##### Merge
-Merging a tool taht allows different features to be merged into one.
+Merging is a tool that allows different features to be merged into one.
 
 1. To merge digitized features, click **Merge** under the *Edit* tab. 
 
@@ -199,6 +199,7 @@ Splitting polygons is the opposite of merging.
 ![Split3](images/Split3.PNG)
 
 ## Conclusion
+ArcGIS Pro offers many tools that are useful for digitizing and editing data. 
 
 ## Further Reading/Resources
 
