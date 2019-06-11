@@ -105,7 +105,7 @@ Feature classes are collections of common features, such as points, lines or pol
 
 ![CF3](images/CF3.PNG)
 
-4. To create a line, decide where the line should start and click. A vertext should appear. Add another vertex to create a line.
+4. To create a line, decide where the line should start and click. A vertex should appear. Add another vertex to create a line.
 
 ![vertex](images./Vertex.PNG)
 
@@ -149,12 +149,12 @@ Be sure to save your work periodically. The save icon in the top left corner of 
 ![SaveEdits](images/SaveEdits.PNG)
 
 #### Editing
-Digitized features may be edited after they are created. The three most common editing tools include auto-complete digizing, merging and splitting. 
+Digitized features may be edited after they are created. The three most common editing tools include auto-complete digitizing, merging and splitting. 
 
 ##### Auto-Complete Digitizing
-Auto-complete digitizing allows a polygon to be created that abudts another existing polygon. This means the shared line does not have to be digitized more than once, which can lead to complications such a slivers. 
+Auto-complete digitizing allows a polygon to be created that abudts an existing polygon. This means the shared line does not have to be digitized more than once, which can lead to complications such a slivers. 
 
-1. To autocomplete a polygon, open the *Create Features* pane and select **Autocomplete Polygon**.
+1. To auto-complete a polygon, open the *Create Features* pane and select **Autocomplete Polygon**.
 
 ![AutoC](images/AutoC.PNG)
 
@@ -167,7 +167,7 @@ Auto-complete digitizing allows a polygon to be created that abudts another exis
 ![AutoC2](images/AutoC2.PNG)
 
 ##### Merge
-Merging is a tool that allows different features to be merged into one.
+Merge is a tool that allows different features to be merged into one.
 
 1. To merge digitized features, click **Merge** under the *Edit* tab. 
 
@@ -179,7 +179,7 @@ Merging is a tool that allows different features to be merged into one.
 
 ![Select](images/Select.PNG)
 
-3. After the features have been selected, click **Merge** in the bottom right hand corner of the *Modify Features* pane. The features are now merged into one feature. 
+3. After the features have been selected, click **Merge** in the bottom right hand corner of the *Modify Features* pane. The features are now merged into one single polygon. 
 
 ![Merge 2](images/Merge2.PNG)
 
