@@ -133,14 +133,29 @@ Why do we create feature classes?
 ##### Deleting Features
 1. To delete a digitized feature, click **Select** in the *Edit* tab of the toolbar.
 
-![Select](images/Select.PNG)
+![Select2](images/Select2.PNG)
 
 2. Right click the feature and choose **Delete**. It should disappear. 
 
 ![Delete](images/Delete.PNG)
 
 ### Editing
-Digitized features may be edited after they are created. The three most common editing tools involve merging, splitting and auto-complete digizing. 
+Digitized features may be edited after they are created. The three most common editing tools involve auto-complete digizing, merging and splitting. 
+
+#### Auto-Complete Digitizing
+Auto-complete digitizing allows a polygon to be created that abudts another existing polygon. This means the same line does not have to be digitized more than once, which can lead to complications such a slivers. 
+
+1. To autocomplete a polygon, open the *Create Features* pane and select **Autocomplete Polygon**.
+
+![AutoC](images/AutoC.PNG)
+
+2. Select a starting point on the existing polygon feature and outline the new feature that you would like to digitize. Be sure the end point is on the exisitng polygon feature.
+
+![Draw](images/Draw.PNG)
+
+3. Double click to complete the new polygon. Now two polygons have been created without duplicating a line. 
+
+![AutoC2](images/AutoC2.PNG)
 
 #### Merge
 Merging a tool taht allows different features to be merged into one.
@@ -155,13 +170,11 @@ Merging a tool taht allows different features to be merged into one.
 
 ![Select](images/Select.PNG)
 
-3. After the features have been selected, click **Merge** in the bottom right hand corner of the *Modify Features* pane. 
+3. After the features have been selected, click **Merge** in the bottom right hand corner of the *Modify Features* pane. The features are now merged into one feature. 
 
 ![Merge 2](images/Merge2.PNG)
 
 #### Split
-
-#### Auto-Complete Digitizing
 
 ## Conclusion
 
