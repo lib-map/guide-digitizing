@@ -1,5 +1,5 @@
 ## About
-Last Updated *[06/06/2019]*   
+Last Updated *[06/11/2019]*   
 Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room)
 
 ![img example](images/OSULogo.png)
@@ -16,6 +16,7 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 - - - Line Features
 - - - Polygon Features
 - - - Deleting Features
+- - - Saving
 - - Editing
 - - - Auto-complete Digitizing
 - - - Merge
@@ -136,10 +137,21 @@ Why do we create feature classes?
 
 ![Delete](images/Delete.PNG)
 
-### Editing
+##### Saving
+Be sure to save your work periodically. The save icon in the top left corner of the screen does not save digitized objects.
+
+1. To ensure digitizing is saved, click **Save** in the *Edit* tab of the toolbar. 
+
+![SaveEdit](images/SaveEdit.PNG)
+
+2. A pop up should appear. Click **Yes** to save all edits.
+
+![SaveEdits](images/SaveEdits.PNG)
+
+#### Editing
 Digitized features may be edited after they are created. The three most common editing tools involve auto-complete digizing, merging and splitting. 
 
-#### Auto-Complete Digitizing
+##### Auto-Complete Digitizing
 Auto-complete digitizing allows a polygon to be created that abudts another existing polygon. This means the same line does not have to be digitized more than once, which can lead to complications such a slivers. 
 
 1. To autocomplete a polygon, open the *Create Features* pane and select **Autocomplete Polygon**.
@@ -154,7 +166,7 @@ Auto-complete digitizing allows a polygon to be created that abudts another exis
 
 ![AutoC2](images/AutoC2.PNG)
 
-#### Merge
+##### Merge
 Merging a tool taht allows different features to be merged into one.
 
 1. To merge digitized features, click **Merge** under the *Edit* tab. 
@@ -171,7 +183,7 @@ Merging a tool taht allows different features to be merged into one.
 
 ![Merge 2](images/Merge2.PNG)
 
-#### Split
+##### Split
 Splitting polygons is the opposite of merging. 
 
 1. To split polygons, select **Split** under the *Edit* tab. 
