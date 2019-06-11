@@ -12,12 +12,14 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 - - Digitizing
 - - - Feature Dataset
 - - - Feature Class
-- - - Snapping?
 - - - Saving?
 - - - Point Features
 - - - Line Features
 - - - Polygon Features
 - - - Deleting Features
+- - Editing
+- - - Merge
+- - - Split
 - Conclusion
 - Further Reading/Resources
 
@@ -80,8 +82,6 @@ Why do we create feature classes?
 
 ![Add](images/Add.PNG)
 
-##### Snapping?
-
 ##### Saving?
 
 ##### Point Features
@@ -138,6 +138,30 @@ Why do we create feature classes?
 2. Right click the feature and choose **Delete**. It should disappear. 
 
 ![Delete](images/Delete.PNG)
+
+### Editing
+Digitized features may be edited after they are created. The three most common editing tools involve merging, splitting and auto-complete digizing. 
+
+#### Merge
+Merging a tool taht allows different features to be merged into one.
+
+1. To merge digitized features, click **Merge** under the *Edit* tab. 
+
+![Merge](images/Merge.PNG)
+
+2. A *Modify Features* pane should appear. You can select the desired features in one of two ways:
+- 1. With the **Merge** tool activated, click on the first desired feature. Hold down **CTRL** on the keyboard and select the remaining features. The features will appear highlighted.
+- 2. Use the mouse to draw a box around the desired features by left clicking and holding as you drag the box over the desired area. The features will appear highlighted.
+
+![Select](images/Select.PNG)
+
+3. After the features have been selected, click **Merge** in the bottom right hand corner of the *Modify Features* pane. 
+
+![Merge 2](images/Merge2.PNG)
+
+#### Split
+
+#### Auto-Complete Digitizing
 
 ## Conclusion
 
