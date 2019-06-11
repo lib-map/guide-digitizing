@@ -17,10 +17,7 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 - - - Point Features
 - - - Line Features
 - - - Polygon Features
-- - Editing
-- - - Auto-complete Digitizing
-- - - Merging
-- - - Splitting
+- - - Deleting Features
 - Conclusion
 - Further Reading/Resources
 
@@ -133,20 +130,12 @@ Why do we create feature classes?
 
 ![Poly3](images/Poly3.PNG)
 
-#### Editing
-
-##### Auto-complete Digitizing
-
-##### Merging
-
-##### Splitting
-
-##### Delete
-1. To delete a misplaced point, click **Select** in the *Edit* tab of the toolbar.
+##### Deleting Features
+1. To delete a digitized feature, click **Select** in the *Edit* tab of the toolbar.
 
 ![Select](images/Select.PNG)
 
-2. Right click the point and choose **Delete**. The point should disappear. 
+2. Right click the feature and choose **Delete**. It should disappear. 
 
 ![Delete](images/Delete.PNG)
 
