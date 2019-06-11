@@ -131,7 +131,7 @@ Feature classes are collections of common features, such as points, lines or pol
 ##### Deleting Features
 1. To delete a digitized feature, click **Select** in the *Edit* tab of the toolbar.
 
-![Select2](images/Select2.PNG)
+![SelectPoint](images/SelectPoint.PNG)
 
 2. Right click the feature you wish to remove and click **Delete**. The feature should disappear. 
 
