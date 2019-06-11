@@ -12,12 +12,12 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 - - Digitizing
 - - - Feature Dataset
 - - - Feature Class
-- - - Saving?
 - - - Point Features
 - - - Line Features
 - - - Polygon Features
 - - - Deleting Features
 - - Editing
+- - - Auto-complete Digitizing
 - - - Merge
 - - - Split
 - Conclusion
@@ -27,7 +27,6 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 Digitizing allows image data to be converted to vector digital data. This is accomplished by manually digitizing objects by tracing lines or adding points based on the source media. 
 
 #### Starting a New Project
-
 1. To begin a new project, open ArcGIS on your desktop.
 2. Click **Map** under *New, Blank Templates*.
     
@@ -81,8 +80,6 @@ Why do we create feature classes?
 4. The new feature class will appear in the *catalog* pane under the feature database that was previously created. To add the layer to the project, right click and select **Add to Current Map**. A new layer should appear in the *Contents* pane. 
 
 ![Add](images/Add.PNG)
-
-##### Saving?
 
 ##### Point Features
 1. To add point features, be sure to select **Point** as the desired feature class when creating a feature class.
@@ -175,6 +172,19 @@ Merging a tool taht allows different features to be merged into one.
 ![Merge 2](images/Merge2.PNG)
 
 #### Split
+Splitting polygons is the opposite of merging. 
+
+1. To split polygons, select **Split** under the *Edit* tab. 
+
+![Split](images/Split.PNG)
+
+2. Draw a line where you would like to split the existing polygon.
+
+![Split 2](images/Split2.PNG)
+
+3. Double click at the end point to split the polygon into two seperate polygons. 
+
+![Split3](images/Split3.PNG)
 
 ## Conclusion
 
