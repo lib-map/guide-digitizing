@@ -28,7 +28,7 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 Digitizing allows image data to be converted to vector digital data. This is accomplished by manually digitizing objects by tracing lines or adding points based on the source media. 
 
 #### Starting a New Project
-1. To begin a new project, open ArcGIS on your desktop.
+1. To begin a new project, open ArcGIS Pro on your desktop.
 2. Click **Map** under *New, Blank Templates*.
     
 ![New Project](images/NewProject.PNG)
